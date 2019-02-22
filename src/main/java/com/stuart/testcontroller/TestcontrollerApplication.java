@@ -1,4 +1,4 @@
-package com.stuart.testcontroller.testcontroller;
+package com.stuart.testcontroller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
